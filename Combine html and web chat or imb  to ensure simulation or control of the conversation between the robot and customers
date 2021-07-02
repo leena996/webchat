@@ -1,0 +1,100 @@
+# webchat
+Combine html and web chat or imb  to ensure simulation or control of the conversation between the robot and customers 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> trying the css style </title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+<h1> How to Write a Study Notes ? </h1>
+<p class="center" >
+ <img src="https://www.oxfordlearning.com/wp-content/uploads/2017/05/AdobeStock_81795837-860x420.jpeg"/>
+</p>
+
+<p class="center" >
+ If your in-class notes are messy, unorganized, and unclear at first glance, you’re not going to get much use out of them. This has nothing to do with how neat your handwriting is &mdash; it’s all about how your notes are structured. One of the most effective ways to remember (and understand) what you are learning in class is to take effective notes in the classroom.
+</p>
+
+<h2 id="title"> Steps to create a best Study Notes: </h2> 
+
+<div class="dotted-box">
+
+<ul id="main-Unorder-List">
+
+<li> Learning how to take better study notes in class helps improve recall and understanding of what you are learning because it:
+<ol class="order-list"> 
+<li>Ensures you are actively listening to what the teacher is saying </li>
+<li> Requires you to think about what you are writing</li>
+<li>Helps you make connections between topics </li>
+<li> Serves as quality review material for after class</li>
+</ol>
+</li>
+
+<li>  THE MAPPING METHOD </li>
+
+<span class="text"> The Mapping note taking method is a more visual way to organize your class notes. This technique is useful when learning about relationships between topics.
+</span> 
+<li class="special"> ADVANTAGES: 
+<ol type="i" class="order-list"> 
+<li>Useful for visual learners who struggle with studying from notes. </li>
+<li> Helps you remember and connect relationships between topics.</li>
+</ol>
+</li>
+<li class="special"> WHAT DOES IT LOOK LIKE? </li>
+<span class="text"> The page is organized by topic. The main topics branch out into subtopics with detailed information about each.
+</span> 
+<li class="special"> HOW DO YOU USE IT? 
+
+<ol class="order-list"> 
+<li>While in class, begin the map with the main topic. </li>
+<li> Branching off the main topic, write a heading for each of the subtopics.</li>
+<li>Write any important notes underneath each subtopic. </li>
+<li> Continue the pattern.</li>
+</ol>
+</li>
+</ul>
+
+<p style="text-align:center"; style="vertical-align:left";>
+<img width="300"px src="https://www.oxfordlearning.com/wp-content/uploads/2017/05/Note-Taking-Mapping-Method.png"/>
+</p>
+</div>
+<div class="footer">
+<a href="https://www.oxfordlearning.com/5-effective-note-taking-methods/">
+<img width="200"px src="https://www.oxfordlearning.com/wp-content/themes/oxfordlearning/images/logo-footer-en.svg"/> 
+</a>
+
+<p>  For more information about methods to write note click here or in above image  
+<a href="https://www.oxfordlearning.com/5-effective-note-taking-methods"> click here </a>
+</p>
+
+
+<p>  For more information about how to write a Study Notes please    
+<a href="mailto:Rawanalamri.cs@gmail.com"> click here to contact me </a>
+</p>
+
+<p style="background-color:rgb(203, 103, 203)">
+This site is created by &copy; leena.
+</p>
+
+
+</div>
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "bc6f85ea-0279-4f07-861a-67a49a6731bd", // The ID of this integration.
+      region: "eu-de", // The region your integration is hosted in.
+      serviceInstanceID: "f7ebbff3-2b5b-4039-8026-9d1da4c2d701", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+</body>
+</html>
+eval2.html
+my first web.html.
